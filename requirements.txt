@@ -1,0 +1,7 @@
+dpkt==1.9.8
+networkx==3.3
+pyshark==0.6
+streamlit==1.34.0
+streamlit_d3graph==1.0.3
+scipy==1.13.0
+scikit-learn==1.4.2
